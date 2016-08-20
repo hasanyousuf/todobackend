@@ -1,5 +1,5 @@
 # Ignore venv
-veng
+venv
 
 # Ignore pyc python file
 *.pyc
