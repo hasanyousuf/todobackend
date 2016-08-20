@@ -1,0 +1,8 @@
+# Ignore venv
+veng
+
+# Ignore pyc python file
+*.pyc
+
+# Ignore SQLite database file
+*.sqlite3
